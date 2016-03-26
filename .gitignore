@@ -1,5 +1,9 @@
+/.DS_Store
+/node_modules
 # elm-package generated files
 elm-package.json
 elm-stuff/
 # elm-repl generated files
 repl-temp-*
+# pragstudio source code file
+original-source-code

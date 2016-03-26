@@ -1,0 +1,26 @@
+{
+  "name": "learn-elm-reactive-web-apps",
+  "version": "1.0.0",
+  "description": "My progress (source code) while taking the \"Elm: Building Reactive Web Apps\" course",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-elm": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padureana/learn-elm-reactive-web-apps.git"
+  },
+  "author": "Ana Padurean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/padureana/learn-elm-reactive-web-apps/issues"
+  },
+  "homepage": "https://github.com/padureana/learn-elm-reactive-web-apps#readme"
+}
